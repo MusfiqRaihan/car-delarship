@@ -1,11 +1,8 @@
 
 /*******************large devices only*****************/
 @media (min-width:1200px) {
-  /*animation header*/
-  @keyframes ahead{
-  	from {padding-right:5px;}
-    to {padding-left:405px;}
-  }
+  
+
 }
 /*******************medium devices only*****************/
 @media (min-width:992px) and (max-width:1199px) {

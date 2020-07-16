@@ -1,5 +1,17 @@
+
+//preloader
 window.addEventListener('load', () => document.querySelector('.preloader')
 .classList.add('hidePreloader'))
+//end preloader
+
+//user icon//
+$('data-toggle="tooltip"').tooltip();
+
+
+
+
+
+
 
 // //car data
 // const createcars = (() => {
